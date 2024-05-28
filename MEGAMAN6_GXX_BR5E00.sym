@@ -276,6 +276,7 @@
 080013A2 sub1_BattleReportFlagSet
 080013AA sub1_MakePrimAttr
 080014D4 sub1_CalcDistance
+080014EC subwram_GameSecureCopy
 08001514 rand_RandInit
 0800151C rand_Rand
 08001532 rand_Rand2

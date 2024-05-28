@@ -276,6 +276,7 @@
 080013A2 _BattleReportFlagSet
 080013AA _MakePrimAttr
 080014D4 _CalcDistance
+080014EC _GameSecureCopy
 08001514 _RandInit
 0800151C _Rand
 08001532 _Rand2
